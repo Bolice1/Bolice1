@@ -30,7 +30,7 @@ I'm a passionate **Python Developer** and **Cybersecurity Professional** with a 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend Development
+### Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -41,12 +41,10 @@ I'm a passionate **Python Developer** and **Cybersecurity Professional** with a 
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Security & Penetration Testing
+### Security
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
@@ -56,17 +54,15 @@ I'm a passionate **Python Developer** and **Cybersecurity Professional** with a 
 
 I don't just solve CTF challenges — I apply security skills in the real world:
 
-### 🌍 What I Actually Do
-
 | Area | What I Do |
 |---|---|
 | 🌐 **Web Apps & Websites** | Audit colleagues' live web apps and websites, identify real vulnerabilities, provide fix recommendations |
 | 📱 **Mobile Apps** | Test Android/iOS apps for insecure data storage, improper auth, API exposure & more |
 | 🔗 **APIs** | Assess REST APIs for broken auth, excessive data exposure, injection flaws & IDOR |
-| 🏁 **CTF Competitions** | Compete on **PicoCTF** to keep offensive skills sharp across crypto, web, forensics & binary exploitation |
+| 🏁 **PicoCTF** | Compete across web exploitation, cryptography, forensics, reverse engineering & binary exploitation |
 | 🎓 **TryHackMe** | Use structured labs to reinforce techniques and document methodologies |
 
-> 💬 *I believe real security experience comes from real targets — not just sandboxed environments.*
+> 💬 *Real security experience comes from real targets — not just sandboxed environments.*
 
 ---
 
@@ -110,15 +106,15 @@ I don't just solve CTF challenges — I apply security skills in the real world:
 
 <div align="center">
 
-### TryHackMe
+### 🚩 TryHackMe
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bolice.png)](https://tryhackme.com/p/bolice)
 
-### PicoCTF
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-Active_Competitor-05A6F0?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAAA7AAAAOwBeShxvQAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAADWSURBVCiRpZKxDcIwEEXfRSpgAEagYABGYABGYAAKJqBkA0ZgAEZgAEZggKSI0iChSCj2OZalyJET+Umn87v77uxzAP8jAczsAMzM3N1FJKW0cs4551xKaQAASikAoJQCAIwxlFJaa+2diNiIyMvMpJQAQCkFAMYYcs4JIKW0lFJijDHGmAEAaZoCAHddV0qpMca47/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+7/u+BwB+AFm9WwAAAABJRU5ErkJggg==&logoColor=white)](https://play.picoctf.org/)
+<br/>
+
+### 🏁 PicoCTF
+[![PicoCTF](https://img.shields.io/badge/PicoCTF-Competitor-05A6F0?style=for-the-badge&logoColor=white)](https://play.picoctf.org/users/bolice)
 
 </div>
-
-> 🏁 I compete in **PicoCTF** challenges spanning web exploitation, cryptography, forensics, reverse engineering & binary exploitation — translating competition skills directly into real-world assessments.
 
 ---
 
@@ -134,7 +130,7 @@ developer = {
         "Auditing colleagues web apps & websites",
         "Mobile app vulnerability assessments",
         "API security testing",
-        "CTF competitions (PicoCTF)"
+        "CTF competitions (PicoCTF)",
     ],
     "philosophy": "Code it. Break it. Secure it."
 }
@@ -153,11 +149,11 @@ developer = {
 
 <div align="center">
 
-[![Bolice1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bolice1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Bolice1)
+![Bolice1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bolice1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolice1&layout=compact&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Bolice1)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolice1&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Bolice1&theme=tokyonight&hide_border=true)](https://github.com/Bolice1)
+![GitHub Streak](https://streak-stats.demolab.com?user=Bolice1&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -170,7 +166,7 @@ developer = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komezusenge-bolice-0b8280380/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/voidghost46/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bolice)
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-05A6F0?style=for-the-badge&logoColor=white)](https://play.picoctf.org/)
+[![PicoCTF](https://img.shields.io/badge/PicoCTF-05A6F0?style=for-the-badge&logoColor=white)](https://play.picoctf.org/users/bolice)
 
 </div>
 
