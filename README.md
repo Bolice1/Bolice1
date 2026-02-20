@@ -15,9 +15,7 @@
 I'm a passionate **Python Developer** and **Cybersecurity Professional** with a strong focus on building robust backend systems and securing them. I love the intersection of development and security — writing the code and then stress-testing it to make it bulletproof.
 
 - 🔭 Currently working on **API development** and **web security research**
-- 🛡️ Specialized in **real-world web, mobile & API penetration testing**
-- 🏁 Active **CTF player** on **PicoCTF** — sharpening offensive skills through competition
-- 🤝 Helping colleagues **identify and fix vulnerabilities** in their web apps, websites & mobile apps
+- 🛡️ Specialized in **web application penetration testing**
 - 🌱 Continuously learning about **AI/ML integration** and **offensive security techniques**
 - 💡 Believer in "build it right, then break it to make it better"
 
@@ -30,7 +28,7 @@ I'm a passionate **Python Developer** and **Cybersecurity Professional** with a 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Backend
+### Backend Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -41,32 +39,22 @@ I'm a passionate **Python Developer** and **Cybersecurity Professional** with a 
 ![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### Security
+### Security & Penetration Testing
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
 
 ---
 
-## 🔐 Cybersecurity — Real World, Not Just Labs
+## 🔐 Cybersecurity Arsenal
 
-I don't just solve CTF challenges — I apply security skills in the real world:
+I specialize in **web application security** with hands-on experience in identifying and exploiting vulnerabilities before malicious actors do.
 
-| Area | What I Do |
-|---|---|
-| 🌐 **Web Apps & Websites** | Audit colleagues' live web apps and websites, identify real vulnerabilities, provide fix recommendations |
-| 📱 **Mobile Apps** | Test Android/iOS apps for insecure data storage, improper auth, API exposure & more |
-| 🔗 **APIs** | Assess REST APIs for broken auth, excessive data exposure, injection flaws & IDOR |
-| 🏁 **PicoCTF** | Compete across web exploitation, cryptography, forensics, reverse engineering & binary exploitation |
-| 🎓 **TryHackMe** | Use structured labs to reinforce techniques and document methodologies |
-
-> 💬 *Real security experience comes from real targets — not just sandboxed environments.*
-
----
-
-## 🧰 Top 20 Pentesting Tools
+### 🧰 Top 20 Tools I Use
 
 | # | Tool | Category | Purpose |
 |---|------|----------|---------|
@@ -96,23 +84,18 @@ I don't just solve CTF challenges — I apply security skills in the real world:
 - 🔍 **Network Scanning & Enumeration** — Service discovery, OS fingerprinting, port analysis
 - 🔑 **Brute Force & Auth Testing** — Hydra, dictionary attacks, session hijacking
 - 🌐 **Web App Exploitation** — Parameter tampering, file inclusion, business logic flaws
-- 📱 **Mobile Security** — Insecure storage, API leakage, certificate pinning bypass
 - 📡 **Traffic Analysis** — Man-in-the-middle, packet sniffing, protocol analysis
 - 📋 **Security Auditing & Reporting** — Clear, professional pentest documentation
 
 ---
 
-## 🏆 CTF & Security Platforms
+## 🏆 TryHackMe
+
+> Practice makes perfect — come hack alongside me!
 
 <div align="center">
 
-### 🚩 TryHackMe
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/bolice.png)](https://tryhackme.com/p/bolice)
-
-<br/>
-
-### 🏁 PicoCTF
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-Competitor-05A6F0?style=for-the-badge&logoColor=white)](https://play.picoctf.org/users/bolice)
 
 </div>
 
@@ -125,13 +108,7 @@ developer = {
     "languages": ["Python", "JavaScript", "TypeScript", "Bash"],
     "frontend": ["React", "TypeScript"],
     "backend": ["Django", "FastAPI", "Express.js", "Node.js"],
-    "specialties": ["RESTful APIs", "AI Integration", "Web Security", "Mobile Security"],
-    "real_world_work": [
-        "Auditing colleagues web apps & websites",
-        "Mobile app vulnerability assessments",
-        "API security testing",
-        "CTF competitions (PicoCTF)",
-    ],
+    "specialties": ["RESTful APIs", "AI Integration", "Web Security"],
     "philosophy": "Code it. Break it. Secure it."
 }
 ```
@@ -149,11 +126,11 @@ developer = {
 
 <div align="center">
 
-![Bolice1's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bolice1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+[![Bolice1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bolice1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Bolice1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolice1&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bolice1&layout=compact&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Bolice1)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Bolice1&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Bolice1&theme=tokyonight&hide_border=true)](https://github.com/Bolice1)
 
 </div>
 
@@ -166,7 +143,6 @@ developer = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komezusenge-bolice-0b8280380/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/voidghost46/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/bolice)
-[![PicoCTF](https://img.shields.io/badge/PicoCTF-05A6F0?style=for-the-badge&logoColor=white)](https://play.picoctf.org/users/bolice)
 
 </div>
 
