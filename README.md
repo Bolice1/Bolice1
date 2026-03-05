@@ -2,13 +2,15 @@
 
 # Komezusenge Bolice
 
-## Hello welcome 
-```bash
-I am Komezusenge Bolice from Rwanda
-```
 <img src="https://komarev.com/ghpvc/?username=Bolice1&color=blueviolet&style=flat-square" />
 <img src="https://img.shields.io/github/followers/Bolice1?label=Followers&style=flat-square&color=blue" />
 <img src="https://img.shields.io/github/stars/Bolice1?label=Stars&style=flat-square&color=yellow" />
+
+## Hello welcome 
+```bash
+I am Komezusenge Bolice from Rwanda  a
+```
+
 
 <br/>
 
