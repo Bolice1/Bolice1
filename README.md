@@ -8,44 +8,17 @@
 
 ## Hello welcome 
 ```html
-<p style="
-font-family: 'Segoe UI', Arial, sans-serif;
-font-size: 18px;
-line-height: 1.7;
-color: #e6e6e6;
-background: linear-gradient(135deg,#0f2027,#203a43,#2c5364);
-padding: 20px;
-border-radius: 12px;
-border-left: 6px solid #8A2BE2;
-box-shadow: 0 4px 15px rgba(0,0,0,0.3);
-">
+<p>
+I am <strong>Komezusenge Bolice</strong> from <strong>Rwanda</strong> 🇷🇼 — a passionate <strong>Full Stack Developer</strong> and <strong>Cybersecurity Enthusiast</strong>. 
+I enjoy building secure and scalable applications while continuously exploring the world of <strong>offensive security</strong>, 
+<strong>penetration testing</strong>, and <strong>automation</strong>. 
 
-👋 Hi, I am <span style="color:#00E5FF;font-weight:bold;">Komezusenge Bolice</span> from 
-<span style="color:#FFD700;font-weight:bold;">Rwanda 🇷🇼</span>.
+My work focuses on developing modern web platforms, experimenting with security research, 
+and solving real-world problems through technology. I am particularly interested in secure system design, 
+backend architecture, and innovative digital solutions that can improve everyday life.
 
-<br><br>
-
-💻 I am a passionate 
-<span style="color:#8A2BE2;font-weight:bold;">Full Stack Developer</span> and 
-<span style="color:#FF4D6D;font-weight:bold;">Cybersecurity Enthusiast</span> who enjoys building 
-<span style="color:#00FFA6;">secure</span>, 
-<span style="color:#00FFA6;">scalable</span>, and 
-<span style="color:#00FFA6;">modern</span> applications.
-
-<br><br>
-
-🛡 My interests include
-<span style="color:#FF9F1C;"full stack <strong>web</strong> and <strong>mobile</strong> development</span> 
-<span style="color:#FF9F1C;">penetration testing</span>, 
-<span style="color:#FF9F1C;">offensive security</span>, 
-<span style="color:#FF9F1C;">automation</span>, and 
-<span style="color:#FF9F1C;">secure system design</span>.
-
-<br><br>
-
-🚀 I enjoy exploring new technologies, solving real-world problems with software, 
-and continuously improving my skills through development, research, and cybersecurity challenges.
-
+When I’m not coding, I spend time learning new technologies, participating in cybersecurity challenges, 
+and contributing to projects that help expand my technical skills and creativity.
 </p>
 ```
 
