@@ -15,8 +15,8 @@
 </div>
 
 ---
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=🌐 Connect" />
 
-## 🌐 Connect
 
 <div align="center">
 
