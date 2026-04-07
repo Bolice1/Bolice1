@@ -13,7 +13,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Offensive+Security+%26+Penetration+Testing+Specialist;Python+%7C+Bash+Automation+Engineer;Cybersecurity+Researcher+%26+CTF+Player;Cloud+Infrastructure+%26+VPS+Deployment;Secure+Backend+Systems+Architect" />
 
 </div>
----
 <div align="center">
 
 **Secure by design. Validated by attack.**
