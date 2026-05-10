@@ -1,20 +1,5 @@
 <div align="center">
 
-# Komezusenge Bolice
-
-<img src="https://komarev.com/ghpvc/?username=Bolice1&color=blueviolet&style=flat-square" />
-<img src="https://img.shields.io/github/followers/Bolice1?label=Followers&style=flat-square&color=blue" />
-<img src="https://img.shields.io/github/stars/Bolice1?label=Stars&style=flat-square&color=yellow" />
-
-## Hello welcome 
-```text
- I am Komezusenge Bolice from 🇷🇼
-```
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Offensive+Security+%26+Penetration+Testing+Specialist;Python+%7C+Bash+Automation+Engineer;Cybersecurity+Researcher+%26+CTF+Player;Cloud+Infrastructure+%26+VPS+Deployment;Secure+Backend+Systems+Architect" />
-
-</div>
-<div align="center">
-
 **Secure by design. Validated by attack.**
 
 </div>
